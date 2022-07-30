@@ -1,4 +1,4 @@
-# Wrangl-And-Analyze-Data
+# Wrangle-And-Analyze-Data
 
 ## Project Steps Overview
 
